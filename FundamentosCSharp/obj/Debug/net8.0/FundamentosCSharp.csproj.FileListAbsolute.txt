@@ -1,0 +1,14 @@
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.exe
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.deps.json
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.runtimeconfig.json
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.dll
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.pdb
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.AssemblyInfoInputs.cache
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.AssemblyInfo.cs
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.csproj.CoreCompileInputs.cache
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.dll
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\refint\FundamentosCSharp.dll
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.pdb
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.genruntimeconfig.cache
+C:\projetos-vs\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\ref\FundamentosCSharp.dll
